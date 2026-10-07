@@ -1,0 +1,13 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# SQL Developer / IDE logs & temporary files
+*.log
+*.tmp
+.idea/
+.vscode/
+
+# Database execution exports / temporary outputs
+*.dmp
+*.lst
